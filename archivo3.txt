@@ -1,1 +1,1 @@
-Soy el fichero 3 Remoto
+Soy el fichero 3 una mezcla del local y el remoto
